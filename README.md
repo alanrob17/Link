@@ -4,4 +4,4 @@ This is my Link application. It is used to create a list of files from a LinkedI
 
 # Usage
 
-In a console window type ``link https://www.linedin.com/webpagename`` to create a list of files generated from that web page.
+In a console window type ``link https://www.linkedin.com/webpage-name`` to create a list of files generated from that web page.
